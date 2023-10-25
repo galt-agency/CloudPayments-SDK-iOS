@@ -1,0 +1,16 @@
+PODS:
+  - CloudpaymentsNetworking (1.0.1)
+
+DEPENDENCIES:
+  - CloudpaymentsNetworking (from `../networking`)
+
+EXTERNAL SOURCES:
+  CloudpaymentsNetworking:
+    :path: "../networking"
+
+SPEC CHECKSUMS:
+  CloudpaymentsNetworking: b03a482d4200209a46f27da663d235228bab5071
+
+PODFILE CHECKSUM: a6fc0ddcd4cfd683076ca01656e13a064ff4789f
+
+COCOAPODS: 1.13.0
